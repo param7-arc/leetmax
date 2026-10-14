@@ -13,4 +13,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/param7-arc/leetmax/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/param7-arc/leetmax/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+## Hash Table
+|  |
+| ------- |
+| [0409-longest-palindrome](https://github.com/param7-arc/leetmax/tree/master/0409-longest-palindrome) |
+## String
+|  |
+| ------- |
+| [0409-longest-palindrome](https://github.com/param7-arc/leetmax/tree/master/0409-longest-palindrome) |
+## Greedy
+|  |
+| ------- |
+| [0409-longest-palindrome](https://github.com/param7-arc/leetmax/tree/master/0409-longest-palindrome) |
 <!---LeetCode Topics End-->
