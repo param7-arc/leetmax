@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/param7-arc/leetmax/tree/master/0409-longest-palindrome) |
+| [0415-add-strings](https://github.com/param7-arc/leetmax/tree/master/0415-add-strings) |
 | [2785-sort-vowels-in-a-string](https://github.com/param7-arc/leetmax/tree/master/2785-sort-vowels-in-a-string) |
 ## Greedy
 |  |
@@ -30,4 +31,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2785-sort-vowels-in-a-string](https://github.com/param7-arc/leetmax/tree/master/2785-sort-vowels-in-a-string) |
+## Math
+|  |
+| ------- |
+| [0415-add-strings](https://github.com/param7-arc/leetmax/tree/master/0415-add-strings) |
+## Simulation
+|  |
+| ------- |
+| [0415-add-strings](https://github.com/param7-arc/leetmax/tree/master/0415-add-strings) |
 <!---LeetCode Topics End-->
